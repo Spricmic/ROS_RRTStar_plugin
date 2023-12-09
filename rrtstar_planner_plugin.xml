@@ -1,0 +1,5 @@
+ <library path="lib/librrtstar_lib">
+  <class name="rrtstar_planner/RRTStar" type="rrtstar_planner::RRTStar" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a RRTStar planner by Michael Sprich.</description>
+  </class>
+ </library>
